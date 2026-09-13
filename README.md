@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi, I'm Wajeeha Batool 👋
 
-<!--
-**wajeehabatool7-cloud/wajeehabatool7-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Computer Engineering Technology Student | Front-End Developer | AI & ML Enthusiast
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm a Computer Engineering Technology student passionate about software development, web technologies, artificial intelligence, and learning new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 About Me
+
+- 🎓 Pursuing BS Computer Engineering Technology
+- 💻 Interested in Front-End Development and Software Engineering
+- 🤖 Exploring Artificial Intelligence and Machine Learning
+- 🌱 Continuously learning and improving my technical skills
+- 🚀 Interested in building practical and innovative projects
+
+## 🛠️ Technical Skills
+
+**Web Development**
+- HTML
+- CSS
+- Bootstrap 5
+- JavaScript
+- React
+
+**Programming & Database**
+- PHP
+- MySQL
+- Python
+
+**Tools & Technologies**
+- Git & GitHub
+- Canva
+- Android Studio
+
+## 🚀 Projects
+
+- 🗑️ Smart Dustbin
+- 🚗 Used Car Price Prediction
+- 😷 Mask Detection
+- 🔥 Fire & Smoke Detection
+- 👩‍💻 AI-Based Facial Recognition Attendance System
+
+## 📌 Current Focus
+
+I'm currently improving my development skills, working on projects, and building my professional portfolio through internships and practical experience.
+
+## 🤝 Connect With Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/wajeeha-batool-159870397)
+
+---
+
+⭐ Thanks for visiting my profile!
